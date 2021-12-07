@@ -13,6 +13,7 @@
 [submodule "src/atmos_phys"]
 	path = src/atmos_phys
 	url = https://github.com/ngam/atmos_phys.git
+	branch = g4ss
 [submodule "src/land_lad2"]
 	path = src/land_lad2
 	url = https://github.com/ngam/lm4.git
